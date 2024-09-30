@@ -1,0 +1,11 @@
+title: Brian Mbevi Portfolio
+description: Cloud Computing, DevOps, AI/ML Projects
+baseurl: "" # leave this blank unless you're using a custom domain
+url: "https://brianmbevi.github.io"
+theme: minima # or another Jekyll theme if you're using one
+author:
+  name: Brian Mbevi
+  email: brianmbevi@outlook.com
+social_links:
+  linkedin: www.linkedin.com/in/brian-mbevi-8762a4113
+  github: https://github.com/brianmbevi
